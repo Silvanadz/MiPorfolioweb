@@ -1,0 +1,91 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+
+.card{
+    background-color: #eeeeee!important;
+    padding: 20px;
+    margin: 5px;
+    transition: 1s;
+       
+}
+.card:hover{
+    background-color:#f195dd!important;
+    transition: 1s;
+}
+
+header{
+    background-image: url("../img/fondoweb.jpg");
+    background-size: cover;
+    padding: 100px; 
+    text-align: center;
+    color: white;
+   
+}
+
+
+.perfil{
+    width: 12%;
+    border-radius: 100%;
+    margin-bottom: -400px;
+    margin-left: -900px;
+    
+}
+.programacionlogo img {
+ width: 30px;
+ height: 25px;
+border-radius: 300%;
+
+}
+.Instagram img{
+    width: 30px;
+    height: 30px;
+    border-radius: 300%;
+    position: relative;
+    right: -1000px;
+    
+}
+.twitter img{
+    width: 30px;
+    height: 30px;
+    border-radius: 300%;
+    position: relative;
+    right: -1010px;
+}
+.botonlogin{
+    position: relative;
+    right: -1020px ;
+}
+section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.botoncito  {
+    background-color: black!important;
+    color: #ffffff!important;
+    border-color: black!important;
+    transition: 1s!important;
+}
+.botoncito:hover{
+    background-color: #ffffff!important;
+    color: black!important;
+    transition: 1s;
+}
+section img {
+    width: 7%;
+}
+.info{
+background-color: #facdf0!important;
+}
+.info img{
+    width: 2%;
+}
+.cv{
+    background-color: #eeeeee!important; 
+    padding: 20px;
+    margin: 5px;
+    text-align: center; 
+}
