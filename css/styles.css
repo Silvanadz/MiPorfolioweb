@@ -4,14 +4,16 @@
     font-size: small;
 }
 
-.card{
-    background:linear-gradient(90deg, rgb(255,255,255,0.8), rgb(243, 195, 195)100%);
+.card {
+    background:linear-gradient(90deg, rgb(255,255,255,0.8), rgb(243, 195, 195) 100%);
     box-shadow: 5px 5px 30px rgba(0,0,0,0.15);
     padding: 20px;
     margin:5px;
     transition: 1s;
     
-   }
+}
+    
+   
 .card:hover{
     background-color:#1d1d17;
     transition: 1s;
