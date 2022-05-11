@@ -2,11 +2,11 @@
 function conn(){
     $hostname = "localhost";
     $usuariodb = "root";
-    $passworddb = "";
-    $dbname = "";
+    $passworddb = "amelin";
+    $dbname = "arg-pro";
 
     $conectar = mysqli_connect ($hostname, $usuariodb, $passworddb, $dbname);
-    return $conectsar;
+    return $conectar;
 }
 
 
