@@ -1,4 +1,4 @@
 <?php
-$conexion = new mysqli("localhost", "root", "amelin","login");
+$conexion = new mysqli("localhost", "root", "","login");
 
 ?>
